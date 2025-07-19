@@ -35,7 +35,7 @@ You can switch between:
 ![help page](screenshots/screenshot3.png)
 ![Running under windows xp](screenshots/screenshot4.png)
 ![settings page](screenshots/screenshot5.png)
-[Watch Demo Video](video/beepsynth_demo.mp4)
+[Watch Demo Video](video/demo.mp4)
 
 ## Keyboard Controls
 
