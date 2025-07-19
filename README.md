@@ -42,6 +42,10 @@ Settings page
 
 Help page
 
+![Compatible ansi only mode](screenshots/Screenshot5.png)
+
+Compatible ansi only mode
+
 ![Running under windows xp](screenshots/Screenshot4.png)
 
 Running under Windows XP
