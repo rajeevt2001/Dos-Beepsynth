@@ -46,9 +46,13 @@ Help page
 
 Running under Windows XP
 
-[Watch Demo Video](video/demo.mp4)
+![Demo Video](video/demo.gif)
 
-Watch working Demo Video
+Demo video converted to gif
+
+[Watch Demo Video with sound](video/demo.mp4)
+
+Watch Demo Video with sound
 
 ## Keyboard Controls
 
