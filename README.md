@@ -50,7 +50,7 @@ Running under Windows XP
 
 Demo video converted to gif
 
-[Watch Demo Video with sound](video/demo.mp4)
+[Demo Video with sound](video/demo.mp4)
 
 Watch Demo Video with sound
 
