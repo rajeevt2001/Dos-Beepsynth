@@ -42,7 +42,7 @@ Settings page
 
 Help page
 
-![Running under windows xp](Screenshots/Screenshot4.png)
+![Running under windows xp](screenshots/Screenshot4.png)
 
 Running under Windows XP
 
