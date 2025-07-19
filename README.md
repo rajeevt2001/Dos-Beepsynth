@@ -31,19 +31,24 @@ You can switch between:
 
 ## Screenshots
 ![Running under dosbox](screenshots/Screenshot1.png)
+
 Running under DOSBox
 
 ![settings page](screenshots/Screenshot2.png)
+
 Settings page
 
 ![help page](screenshots/Screenshot3.png)
+
 Help page
 
-![Running under windows xp](Screenshots/screenshot4.png)
+![Running under windows xp](Screenshots/Screenshot4.png)
+
 Running under Windows XP
 
 [Watch Demo Video](video/demo.mp4)
-Watch Demo Video
+
+Watch working Demo Video
 
 ## Keyboard Controls
 
