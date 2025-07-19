@@ -30,11 +30,11 @@ You can switch between:
 - **ANSI UI** (compatible fallback mode for systems not supporting extended characters)
 
 ## Screenshots
-![Running under dosbox](screenshots/screenshot1.png)
-![settings page](screenshots/screenshot2.png)
-![help page](screenshots/screenshot3.png)
-![Running under windows xp](screenshots/screenshot4.png)
-![settings page](screenshots/screenshot5.png)
+![Running under dosbox](screenshots/Screenshot1.png)
+![settings page](screenshots/Screenshot2.png)
+![help page](screenshots/Screenshot3.png)
+![Running under windows xp](Screenshots/screenshot4.png)
+![settings page](screenshots/Screenshot5.png)
 [Watch Demo Video](video/demo.mp4)
 
 ## Keyboard Controls
