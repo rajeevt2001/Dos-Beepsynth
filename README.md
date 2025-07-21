@@ -87,8 +87,7 @@ Watch Demo Video with sound
 
 ## Requirements
 
-- DOSBox or real DOS environment (MS-DOS/FreeDOS)
-- Windows 95/98/ME/XP (32-bit) — with native DOS compatibility
+- DOSBox or real DOS environment (MS-DOS/FreeDOS) or Windows 95/98/ME/XP (32-bit) — with native DOS compatibility
 - VGA-compatible graphics (80x25 text mode)
 - PC speaker
 - Keyboard + mouse (for full UI support)
